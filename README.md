@@ -3,7 +3,7 @@
 
  # img project
  screenshots:
- ![screenshot1](Screenshot (41).png)
- ![screenshot2](Screenshot (5).png)
- ![screenshot3](Screenshot (6).png)
+ ![screenshot1](./images/Screenshot%20(41).png)
+ ![screenshot2](./images/Screenshot%20(5).png)
+ ![screenshot3](./images/Screenshot%20(6).png)
 
