@@ -3,7 +3,7 @@
 
  # img project
  screenshots:
- ![screenshot1](Youtube-clone\images\Screenshot (41).png)
- ![screenshot2](Youtube-clone\images\Screenshot (5).png)
- ![screenshot3](Youtube-clone\images\Screenshot (6).png)
+ ![screenshot1](Screenshot (41).png)
+ ![screenshot2](Screenshot (5).png)
+ ![screenshot3](Screenshot (6).png)
 
